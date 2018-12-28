@@ -1,2 +1,1 @@
-# b4rtaz blog
-
+This is the repository of [my blog](https://b4rtaz.github.io/blog/).

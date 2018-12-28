@@ -1,8 +1,8 @@
 # Site settings
 title:          "b4rtaz"
 description:    "blog"
-baseurl:        ""
-url:            "https://b4rtaz.github.io"
+baseurl:        "https://b4rtaz.github.io/blog/"
+url:            "https://b4rtaz.github.io/blog/"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
