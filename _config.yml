@@ -5,7 +5,7 @@ baseurl:        "https://b4rtaz.github.io/blog"
 url:            "https://b4rtaz.github.io/blog/"
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+google_analytics: "UA-3186391-13"
 
 # Author
 author:
