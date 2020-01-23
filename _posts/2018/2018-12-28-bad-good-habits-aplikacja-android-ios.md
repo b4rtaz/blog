@@ -9,7 +9,7 @@ tags: polish
 Podczas czytania książki “Siła nawyku” Charlesa Duhigga trafiłem na bardzo ciekawy eksperyment przeprowadzony w USA w roku 2009 [1]. Otóż naukowcy zebrali około 1600 chętnych, którzy deklarowali, że mają problem z otyłością i pomimo prób nie udaje im się zrzucić nadwagi. Grupa miała zostać poddana dość nietypowemu eksperymentowi. Każdemu z badanych przedstawiono zalecenia dla kolejnych tygodni, w których rekomendowano między innymi zwiększenie aktywności sportowej czy nieobjadanie się. Oprócz tego każdy z uczestników został zobligowany do wpisywania w swoim notesie przynajmniej w jednym dniu w tygodniu wszystkiego, co zje lub wypije.
 
 &#9658; [Strona aplikacji Bad Good Habits](http://n4no.com/projects/badGoodHabits/?lang=pl)  
-&#9658; [Pobierz dla iPhone](https://itunes.apple.com/app/id1447281621)  
+&#9658; ~~Pobierz dla iPhone~~  
 &#9658; [Pobierz dla Androida](https://play.google.com/store/apps/details?id=com.n4no.badGoodHabits)
 
 Każda potrawa, smakołyk czy napój musiał znaleźć się w notesie. Oczywiście na samym początku eksperymentu badani zapominali notować regularnie, jednak ze wsparciem naukowców w końcu weszło im to w nawyk. Po kilku tygodniach eksperymentu okazało się, że badani… tracą na wadze. Co ciekawe wielu z nich, zamiast notować raz w tygodniu zaczęli notować… każdego dnia.
