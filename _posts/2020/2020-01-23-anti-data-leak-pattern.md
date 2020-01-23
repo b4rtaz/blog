@@ -8,9 +8,9 @@ tags: programming idea
 
 From one year to another, data leaks from cloud services are more frequent. Unfortunately, the recent data leak was more dangerous than a few years ago because people keep more sensitive data in the cloud. There are many methods to prevent data theft like a professional administration team, a complex network architecture, intelligent firewalls, etc. Generally, that method is expensive and challenging to implement. Especially for a small business. If we look at the success of securing data by blockchain, we can note that current cloud architectures aren’t designed for reliable security.
 
-Current cloud services look similar; each has a database, which stores every sensitive data in plain text, credit card numbers, PIN codes, or personal ID numbers. To get all of this information, hackers must gain access to the database. Of course, this isn’t easy, but if they achieve it, they have every information that people sent to the service. The next significant weakness of this architecture is that many people can access the infrastructure. Developers, network administrators, back-up team, or cleaning staff, have access to the server room. That gives thousands of attack vectors.
+Current cloud services look similar; each has a database, which stores every sensitive data in plain text, credit card numbers, PIN codes, or personal ID numbers. To get all of this information, hackers must gain access to the database. Of course, this isn’t easy, but if they achieve it, they have every information that people sent to the service. The next significant weakness of this architecture is that many people can access the infrastructure. Developers, network administrators, back-up team, or cleaning staff, have access to the server. That gives thousands of attack vectors.
 
-With the help of asymmetric cryptography, we can alter many attack vectors, and make the theft of database resistant to data leak.
+With the help of asymmetric cryptography, we can prevent many attack vectors, and make the theft of database resistant to data leak.
 
 ## End-To-End Encryption 
 
