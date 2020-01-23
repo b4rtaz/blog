@@ -2,7 +2,7 @@
 layout: post
 title: "Bad Good Habits – od naukowego eksperymentu do aplikacji na telefon"
 author: "b4rtaz"
-image: "images/2018/2018-12-28-bad-good-habits-cover.png"
+image: "/images/2018/2018-12-28-bad-good-habits-cover.png"
 tags: polish
 ---
 

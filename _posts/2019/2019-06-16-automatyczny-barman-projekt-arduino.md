@@ -2,7 +2,7 @@
 layout: post
 title: "Automatyczny barman - projekt Arduino"
 author: "b4rtaz"
-image: "images/2019/2019-06-16-automatyczny-barman-cover.jpg"
+image: "/images/2019/2019-06-16-automatyczny-barman-cover.jpg"
 tags: polish
 ---
 

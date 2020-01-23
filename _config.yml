@@ -1,8 +1,8 @@
 # Site settings
 title:          "b4rtaz"
 description:    "The Private Blog of Bartlomiej Tadych."
-baseurl:        "/"
-url:            "https://b4rtaz.github.io/blog/"
+baseurl:        "/blog"
+url:            "https://b4rtaz.github.io/"
 
 # Google Analytics
 google_analytics: "UA-3186391-13"
