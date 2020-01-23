@@ -2,7 +2,7 @@
 title:          "b4rtaz"
 description:    "The Private Blog of Bartlomiej Tadych."
 baseurl:        "/blog"
-url:            "https://b4rtaz.github.io/"
+url:            "https://b4rtaz.github.io"
 
 # Google Analytics
 google_analytics: "UA-3186391-13"
